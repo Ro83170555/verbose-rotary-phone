@@ -1,0 +1,20 @@
+html,body{
+    margin: 0%;
+#fundo.jpg{
+    background: url(fundo.jpg);
+    height: 100%;
+    }
+    #titulo{
+        color: white;
+padding: top 20%;
+        }
+   #subtitulo{
+    color: white;   
+    padding-left: 20%;
+    padding-right: 20%;
+   }
+        #açao{
+            color: white;
+            border: 1px white solid;
+            padding: 10px 20px 20px;
+        }
